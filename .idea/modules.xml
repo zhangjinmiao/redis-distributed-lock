@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-distributed-lock/redis-distributed-lock.iml" filepath="$PROJECT_DIR$/redis-distributed-lock/redis-distributed-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-distributed-lock-spring/redis-distributed-lock-spring.iml" filepath="$PROJECT_DIR$/redis-distributed-lock-spring/redis-distributed-lock-spring.iml" />
+    </modules>
+  </component>
+</project>
