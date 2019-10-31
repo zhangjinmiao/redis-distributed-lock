@@ -1,4 +1,4 @@
-# 基于redission 的分布式锁实现
+# 基于redisson 的分布式锁实现
 
 本项目是spring-boot-starter类的类库，springboot 项目可直接使用。
 

@@ -1,6 +1,6 @@
 package com.zrb;
 
-import com.zrb.lock.redisson.config.RedissonProperties;
+import com.fast.lock.redisson.config.RedissonProperties;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
