@@ -13,7 +13,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<apache-common-lang3>3.4</apache-common-lang3>
-		<google-guava>26.0-jre</google-guava>
+		<google-guava>29.0-jre</google-guava>
 		<aspectjweaver>1.8.13</aspectjweaver>
 		<aspecjrt>1.8.13</aspecjrt>
 		<spring.version>5.1.7.RELEASE</spring.version>
