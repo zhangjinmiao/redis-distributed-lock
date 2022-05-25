@@ -16,7 +16,7 @@
 		<google-guava>29.0-jre</google-guava>
 		<aspectjweaver>1.8.13</aspectjweaver>
 		<aspecjrt>1.8.13</aspecjrt>
-		<spring.version>5.1.7.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 	</properties>
 
 	<dependencies>
